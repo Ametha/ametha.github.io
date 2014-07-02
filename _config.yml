@@ -1,0 +1,12 @@
+# Site settings
+title: Amaetha
+email: contact@ametha.tk
+description: ""
+baseurl: ""
+url: "http://ametha.tk"
+twitter_username: 
+github_username:  Ametha
+
+# Build settings
+markdown: kramdown
+permalink: pretty
